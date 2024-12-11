@@ -39,7 +39,7 @@ Genetic Algorithms (GA) are optimization algorithms inspired by the process of n
 
 ---
 
-## 3. Setup Instructions
+## 3. **Setup Instructions**
 ### Prerequisites
 - Python 3.8+
 - Required Python libraries:
@@ -48,7 +48,7 @@ Genetic Algorithms (GA) are optimization algorithms inspired by the process of n
   - `matplotlib`
   - `scikit-learn`
   - `tqdm`
-### 4. Run project
+### 4. **Run project**
 
 Run the following command to install dependencies:
 ```bash
