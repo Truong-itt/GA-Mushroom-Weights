@@ -9,7 +9,7 @@ This project implements a Genetic Algorithm (GA) to optimize weights for a neura
 1. [Introduction](#introduction)
 2. [Project Workflow](#project-workflow)
 3. [Setup Instructions](#setup-instructions)
-4. [Run project](#contributing)
+4. [Run project](#run-project)
 
 ---
 
