@@ -1,16 +1,13 @@
 # Genetic Algorithm for Finding Optimal Weights from Mushroom Data
 
 This project implements a Genetic Algorithm (GA) to optimize weights for a neural network using mushroom dataset. The solution includes steps for data exploration, visualization, feature engineering, and applying GA to improve classification accuracy.
-
 ---
 
 ## Table of Contents
-
 1. [Introduction](#introduction)
 2. [Project Workflow](#project-workflow)
 3. [Setup Instructions](#setup-instructions)
-4. [Run project](#run-project)
-
+4. [Run Project](#run-project)
 ---
 
 ## Introduction
@@ -39,7 +36,7 @@ Genetic Algorithms (GA) are optimization algorithms inspired by the process of n
 
 ---
 
-## 3. **Setup Instructions**
+## Setup Instructions
 ### Prerequisites
 - Python 3.8+
 - Required Python libraries:
@@ -48,7 +45,7 @@ Genetic Algorithms (GA) are optimization algorithms inspired by the process of n
   - `matplotlib`
   - `scikit-learn`
   - `tqdm`
-### 4. **Run project**
+## 4. **Run project**
 
 Run the following command to install dependencies:
 ```bash
